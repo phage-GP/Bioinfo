@@ -1,4 +1,4 @@
-# Bioinfo
+# Assemble full TCR/Ig receptor sequences
 
 ## MXICR
 
